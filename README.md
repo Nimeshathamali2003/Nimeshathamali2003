@@ -6,9 +6,8 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=9B59B6&center=true&vCenter=true&width=600&lines=Hello+World!+👋+I'm+Nimesha;HNDIT+Undergraduate+at+SLIATE;Passionate+about+Databases+and+Web+Development" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=9B59B6&center=true&vCenter=true&width=500&lines=HNDIT+Undergraduate+at+SLIATE;Passionate+about+Databases+and+Web+Development" alt="Typing SVG" />
 </div>
-
 <br>
 
 ## 💜 About Me
