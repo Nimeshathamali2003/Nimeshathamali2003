@@ -1,8 +1,7 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=180&section=header&text=U.G.%20Nimesha%20Thamali&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=U.G.%20Nimesha%20Thamali&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%" />
 
   <h3>IT Undergraduate | Aspiring Web Developer and Database Enthusiast</h3>
-  <h4>HNDIT Undergraduate at SLIATE</h4>
 </div>
 
 <div align="center">
@@ -31,31 +30,3 @@
   <img src="https://img.shields.io/badge/Microsoft_Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white" />
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
 </p>
-
-<br>
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nimeshathamali2003&show_icons=true&theme=radical&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nimeshathamali2003&theme=radical&hide_border=true" width="48%" />
-</p>
-
-<br>
-
-## 📫 Connect with Me
-
-<p align="center">
-  <a href="mailto:nimeshathamali151@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/Nimeshathamali2003">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
-<br>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer" width="100%" />
-</div>
